@@ -1,0 +1,6 @@
+C:\TSF-GH\caTest\cAppTest\cAppTest\bin\Debug\cAppTest.exe.config
+C:\TSF-GH\caTest\cAppTest\cAppTest\bin\Debug\cAppTest.exe
+C:\TSF-GH\caTest\cAppTest\cAppTest\bin\Debug\cAppTest.pdb
+C:\TSF-GH\caTest\cAppTest\cAppTest\obj\Debug\cAppTest.csprojResolveAssemblyReference.cache
+C:\TSF-GH\caTest\cAppTest\cAppTest\obj\Debug\cAppTest.exe
+C:\TSF-GH\caTest\cAppTest\cAppTest\obj\Debug\cAppTest.pdb
