@@ -10,7 +10,7 @@ namespace cAppTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola Nuevo Mundo!!!");
+            Console.WriteLine("Hola Nuevo Mundo 2!!!");
             Console.Read();
         }
     }
